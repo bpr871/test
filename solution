@@ -1,0 +1,3 @@
+# write your code here
+import mymodule
+mymodule.myfun(1)
